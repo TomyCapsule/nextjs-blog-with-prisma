@@ -1,3 +1,3 @@
-# Fullstack Authentication Example with Next.js and NextAuth.js
+# Description
 
-This is the starter project for the fullstack tutorial with Next.js and Prisma. You can find the final version of this project in the [`final`](https://github.com/prisma/blogr-nextjs-prisma/tree/final) branch of this repo.
+A simple blog with basic features such as publish/delete posts to better understand Prisma's use with a fullstack framework such as Next.js
