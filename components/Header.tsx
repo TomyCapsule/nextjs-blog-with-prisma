@@ -10,7 +10,7 @@ const Header: React.FC = () => {
     router.pathname === pathname;
 
   const { data: session, status } = useSession();
-
+  console.log("front session", session)
   let left = (
     <div>
       <Link href="/" className="bold" data-active={isActive('/')} style={{fontWeight: "bold", ...styles.nextLink, color: isActive('/') ? "black" : "gray"}}>
