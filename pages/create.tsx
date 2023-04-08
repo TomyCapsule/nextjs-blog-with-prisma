@@ -59,7 +59,7 @@ export default Draft;
 
 const styles = {
     page: {
-        background: "var(--geist-background)",
+        background: "white",
         padding: "3rem",
         display: "flex",
         justifyContent: "center",
